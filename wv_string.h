@@ -1,6 +1,4 @@
 #pragma once
-#include <stdio.h>
-
 
 void wv_string_demo(void);
 
